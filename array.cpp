@@ -1,3 +1,5 @@
+//A queue is a linear data structure in which the order of operation is FIFO. 
+
 #include <iostream>
 
 using namespace std;
