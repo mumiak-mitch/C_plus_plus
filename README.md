@@ -20,7 +20,9 @@ A variable lets you store a value by assigning it to a name.
 
 Data types in C++ include: integers, float, double, char, boolean ...
 
-Comments: //single line,  /*multi line*/
+Comments: 
+
+    //single line,  /*multi line*/
 
 
 ## Conditionals and loops
@@ -33,7 +35,9 @@ They include:
 
 A loop allows you to repeat a block of code multiple times.
 
-They include: while loop, do while loop, for loops
+They include: 
+    
+    while loop, do while loop, for loops
 
 
 ## Arrays and pointers
